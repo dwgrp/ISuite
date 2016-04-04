@@ -1,0 +1,19 @@
+
+body {
+	padding: 10px;
+}
+.leftsidebar {
+	width:17%;
+	float:left;
+	padding-left:0;
+}
+.leftsidebar .ulnob{
+	list-style-type: none;	
+	padding-left:0;
+}
+.content{
+	width:83%;
+	float:right;
+}
+
+body, p { font-size: 24px; }
